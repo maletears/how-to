@@ -1,5 +1,5 @@
 # Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
-International
+## International
 
 > Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
@@ -46,7 +46,7 @@ encouraged to respect those requests where reasonable. [More
 considerations for the public.](https://wiki.creativecommons.org/Considerations\_for\_licensees)
 
 # Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
-International Public License
+## International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree
 to be bound by the terms and conditions of this Creative Commons
